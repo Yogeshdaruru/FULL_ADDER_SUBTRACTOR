@@ -98,9 +98,7 @@ or g5(borr,w4,w5,w6);
 
 endmodule
 
-Developed by:R.mounish vamsi kumar 
 
-RegisterNumber:24003774
 */
 
 **RTL Schematic**
